@@ -1,6 +1,6 @@
 # Repo Contents
 This repo contains my solution for the course project for Getting and Cleaning Data from John Hopkins University, through Coursera.
-The script run_analysis.R contains a function to carry out operations on a data set from the UCI Machine Learning Repository. A full description is available at the site where the data were obtained:
+The script run_analysis.R contains a function to carry out operations on a data set from the UCI Machine Learning Repository, contained within "data/UCI HAR Dataset". A full description is available at the site where the data were obtained:
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
@@ -17,3 +17,5 @@ run_analysis.R takes the data in the repo and transforms it to do the following:
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 The function returns the tidy data set described in point 5.
+
+Also contained is a markup file, CodeBook.md, a code book that describes the variables, the data, and any transformations or work that are performed to clean up the data.
