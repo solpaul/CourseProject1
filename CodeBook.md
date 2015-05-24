@@ -11,18 +11,11 @@ The function wearable, contained within run_analysis.R performs the following tr
 
 When run, the function returns the dataframe from step 6. This contains a data frame with the following columns:
 
-subject - the subject who performed the activity for each window sample. Its range is from 1 to 30.
-
-activity - the activity the subject was performing
-
-tBodyAcc-mean()-X - the average of all the X body acceleration means for the subject and activity.
-
-tBodyAcc-mean()-Y - the average of all the Y body acceleration means for the subject and activity.
-
-tBodyAcc-mean()-Z - the average of all the Z body acceleration means for the subject and activity.
-
-tBodyAcc-std()-X - the average of all the X body acceleration standard deviations for the subject and activity.
-
-tBodyAcc-std()-Y - the average of all the Y body acceleration standard deviations for the subject and activity.
-
-tBodyAcc-std()-Z - the average of all the Z body acceleration standard deviations for the subject and activity.
+* subject - the subject who performed the activity for each window sample. Its range is from 1 to 30.
+* activity - the activity the subject was performing
+* tBodyAcc-mean()-X - the average of all the X body acceleration means for the subject and activity.
+* tBodyAcc-mean()-Y - the average of all the Y body acceleration means for the subject and activity.
+* tBodyAcc-mean()-Z - the average of all the Z body acceleration means for the subject and activity.
+* tBodyAcc-std()-X - the average of all the X body acceleration standard deviations for the subject and activity.
+* tBodyAcc-std()-Y - the average of all the Y body acceleration standard deviations for the subject and activity.
+* tBodyAcc-std()-Z - the average of all the Z body acceleration standard deviations for the subject and activity.

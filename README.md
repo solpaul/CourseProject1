@@ -18,4 +18,4 @@ run_analysis.R takes the data in the repo and transforms it to do the following:
 
 The function returns the tidy data set described in point 5.
 
-Also contained is a markup file, CodeBook.md, a code book that describes the variables, the data, and any transformations or work that are performed to clean up the data.
+Also contained is a markup file, CodeBook.md, a code book that describes the variables, the data, and the transformations and work performed to clean up the data.
